@@ -1,0 +1,12 @@
+{
+  "name": "podcast-organiser-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal Spotify podcast organiser (static PWA, no backend).",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  }
+}
